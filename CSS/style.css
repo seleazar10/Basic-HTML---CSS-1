@@ -51,7 +51,7 @@ nav{
 section{
     margin: 0 20px;
     margin-right: 0px;
-    padding: 30px;
+    padding: 10px;
     border: solid black 1px;
     background-color: #FFDC00;
     float: left;
@@ -74,6 +74,7 @@ article{
 
 h4{
     padding: 10px;
+    margin-top: 10px;
     background-color: #FF4136;
 }
 
